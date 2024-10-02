@@ -22,8 +22,13 @@ After first note created by the User will have buttons to delete a note, or to m
 ### recall of data 2nd time
 
 ## Documentation and deployment locations
+
+
 Repository:
-https://github.com/AeroRider66/11challenge
+https://github.com/AeroRider66/11completeRewrite
 
 Deployed
-https://aerorider66.github.io/11challenge
+https://aerorider66.github.io/11completeRewrite/
+
+Original Repository (would not deploy - gave error even though GitHub said it was displayed).  I did a cut and paste for every file and it worked.
+https://github.com/AeroRider66/11challenge
